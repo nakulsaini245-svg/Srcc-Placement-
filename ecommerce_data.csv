@@ -1,0 +1,1001 @@
+order_id,category,seller_name,order_value,is_rto
+ORD1000,Home & Kitchen,CloudTail,16869,0
+ORD1001,Beauty,CloudTail,3541,0
+ORD1002,Electronics,CloudTail,605,0
+ORD1003,Home & Kitchen,OmniTech,9578,1
+ORD1004,Home & Kitchen,SuperCom,25503,0
+ORD1005,Beauty,OmniTech,6590,1
+ORD1006,Electronics,SuperCom,39350,1
+ORD1007,Electronics,OmniTech,2425,0
+ORD1008,Home & Kitchen,OmniTech,18940,1
+ORD1009,Fashion,RetailNet,40185,0
+ORD1010,Home & Kitchen,OmniTech,26515,1
+ORD1011,Home & Kitchen,Appario,33820,0
+ORD1012,Home & Kitchen,RetailNet,25791,0
+ORD1013,Home & Kitchen,OmniTech,37179,0
+ORD1014,Beauty,CloudTail,26789,0
+ORD1015,Electronics,Appario,3889,1
+ORD1016,Beauty,Appario,26183,0
+ORD1017,Beauty,Appario,14129,0
+ORD1018,Beauty,RetailNet,25326,1
+ORD1019,Home & Kitchen,OmniTech,35698,0
+ORD1020,Fashion,OmniTech,27130,0
+ORD1021,Electronics,CloudTail,33726,0
+ORD1022,Fashion,CloudTail,46663,0
+ORD1023,Beauty,Appario,33475,0
+ORD1024,Beauty,CloudTail,1399,1
+ORD1025,Fashion,RetailNet,12153,0
+ORD1026,Fashion,OmniTech,28461,0
+ORD1027,Fashion,Appario,16905,0
+ORD1028,Beauty,CloudTail,9101,1
+ORD1029,Beauty,RetailNet,34162,1
+ORD1030,Electronics,RetailNet,33782,0
+ORD1031,Electronics,CloudTail,21788,0
+ORD1032,Beauty,OmniTech,30045,0
+ORD1033,Fashion,CloudTail,37377,0
+ORD1034,Fashion,Appario,46526,1
+ORD1035,Electronics,CloudTail,15813,0
+ORD1036,Beauty,RetailNet,15849,1
+ORD1037,Electronics,CloudTail,7679,0
+ORD1038,Electronics,OmniTech,10826,1
+ORD1039,Home & Kitchen,SuperCom,45055,0
+ORD1040,Home & Kitchen,CloudTail,2060,0
+ORD1041,Home & Kitchen,OmniTech,14112,0
+ORD1042,Fashion,OmniTech,18150,1
+ORD1043,Beauty,RetailNet,27245,0
+ORD1044,Beauty,OmniTech,32390,0
+ORD1045,Beauty,OmniTech,20522,0
+ORD1046,Beauty,OmniTech,5280,1
+ORD1047,Home & Kitchen,OmniTech,18811,1
+ORD1048,Fashion,Appario,28880,0
+ORD1049,Fashion,Appario,45162,0
+ORD1050,Home & Kitchen,RetailNet,2856,0
+ORD1051,Fashion,CloudTail,5290,0
+ORD1052,Home & Kitchen,OmniTech,27411,0
+ORD1053,Beauty,CloudTail,49958,0
+ORD1054,Home & Kitchen,CloudTail,24863,0
+ORD1055,Beauty,RetailNet,20549,0
+ORD1056,Beauty,OmniTech,10681,0
+ORD1057,Electronics,OmniTech,40325,0
+ORD1058,Home & Kitchen,SuperCom,16582,0
+ORD1059,Electronics,CloudTail,1161,0
+ORD1060,Home & Kitchen,CloudTail,37912,0
+ORD1061,Home & Kitchen,Appario,48979,0
+ORD1062,Electronics,SuperCom,3420,0
+ORD1063,Electronics,Appario,26158,1
+ORD1064,Home & Kitchen,Appario,49270,0
+ORD1065,Fashion,Appario,14525,0
+ORD1066,Beauty,RetailNet,9446,0
+ORD1067,Electronics,RetailNet,29206,0
+ORD1068,Beauty,Appario,46000,0
+ORD1069,Fashion,SuperCom,39504,0
+ORD1070,Fashion,CloudTail,16809,0
+ORD1071,Fashion,SuperCom,46786,1
+ORD1072,Electronics,OmniTech,33620,0
+ORD1073,Fashion,RetailNet,30527,0
+ORD1074,Electronics,CloudTail,7505,0
+ORD1075,Fashion,CloudTail,47304,1
+ORD1076,Beauty,OmniTech,49810,0
+ORD1077,Beauty,OmniTech,1456,0
+ORD1078,Home & Kitchen,Appario,35339,0
+ORD1079,Beauty,RetailNet,9095,0
+ORD1080,Home & Kitchen,RetailNet,48408,0
+ORD1081,Beauty,SuperCom,13303,0
+ORD1082,Electronics,Appario,26463,0
+ORD1083,Beauty,Appario,36721,0
+ORD1084,Home & Kitchen,Appario,39943,1
+ORD1085,Home & Kitchen,Appario,34223,0
+ORD1086,Fashion,RetailNet,39563,0
+ORD1087,Electronics,RetailNet,49189,0
+ORD1088,Beauty,Appario,15782,0
+ORD1089,Fashion,SuperCom,5203,1
+ORD1090,Beauty,CloudTail,7063,0
+ORD1091,Beauty,CloudTail,26349,0
+ORD1092,Fashion,SuperCom,32360,0
+ORD1093,Fashion,Appario,32085,1
+ORD1094,Fashion,RetailNet,22515,0
+ORD1095,Fashion,CloudTail,12503,0
+ORD1096,Fashion,OmniTech,44085,0
+ORD1097,Beauty,OmniTech,27458,1
+ORD1098,Fashion,SuperCom,26517,0
+ORD1099,Electronics,Appario,11671,0
+ORD1100,Home & Kitchen,CloudTail,45850,0
+ORD1101,Fashion,Appario,12701,0
+ORD1102,Fashion,CloudTail,29926,0
+ORD1103,Beauty,SuperCom,18278,0
+ORD1104,Fashion,SuperCom,45741,0
+ORD1105,Fashion,OmniTech,42729,0
+ORD1106,Fashion,Appario,21616,0
+ORD1107,Beauty,OmniTech,48864,0
+ORD1108,Fashion,Appario,33797,0
+ORD1109,Home & Kitchen,OmniTech,19842,0
+ORD1110,Beauty,RetailNet,27990,0
+ORD1111,Home & Kitchen,RetailNet,20475,0
+ORD1112,Beauty,RetailNet,27223,0
+ORD1113,Fashion,RetailNet,23779,1
+ORD1114,Home & Kitchen,CloudTail,13265,0
+ORD1115,Beauty,RetailNet,47178,0
+ORD1116,Electronics,SuperCom,12061,0
+ORD1117,Fashion,SuperCom,42399,0
+ORD1118,Beauty,CloudTail,1025,1
+ORD1119,Electronics,RetailNet,23361,0
+ORD1120,Beauty,RetailNet,49653,0
+ORD1121,Electronics,RetailNet,33642,0
+ORD1122,Fashion,OmniTech,27416,1
+ORD1123,Home & Kitchen,Appario,45465,0
+ORD1124,Electronics,OmniTech,5148,1
+ORD1125,Beauty,Appario,35633,0
+ORD1126,Fashion,RetailNet,31023,0
+ORD1127,Electronics,RetailNet,29552,0
+ORD1128,Beauty,OmniTech,34914,0
+ORD1129,Beauty,OmniTech,33281,1
+ORD1130,Beauty,Appario,5099,0
+ORD1131,Electronics,SuperCom,35546,0
+ORD1132,Electronics,Appario,47564,0
+ORD1133,Electronics,OmniTech,36423,0
+ORD1134,Home & Kitchen,OmniTech,41589,0
+ORD1135,Electronics,CloudTail,4314,0
+ORD1136,Electronics,OmniTech,46393,0
+ORD1137,Electronics,CloudTail,36484,0
+ORD1138,Home & Kitchen,SuperCom,27116,0
+ORD1139,Electronics,Appario,2613,0
+ORD1140,Beauty,Appario,43506,0
+ORD1141,Electronics,CloudTail,14260,0
+ORD1142,Beauty,Appario,22427,1
+ORD1143,Beauty,OmniTech,21439,0
+ORD1144,Beauty,RetailNet,32919,0
+ORD1145,Home & Kitchen,CloudTail,13088,0
+ORD1146,Home & Kitchen,Appario,36642,0
+ORD1147,Home & Kitchen,CloudTail,39698,0
+ORD1148,Electronics,CloudTail,45238,0
+ORD1149,Beauty,RetailNet,33897,1
+ORD1150,Home & Kitchen,OmniTech,17153,1
+ORD1151,Home & Kitchen,CloudTail,11331,0
+ORD1152,Electronics,Appario,6224,0
+ORD1153,Home & Kitchen,SuperCom,11583,0
+ORD1154,Electronics,CloudTail,46417,0
+ORD1155,Fashion,CloudTail,20316,1
+ORD1156,Home & Kitchen,RetailNet,42740,0
+ORD1157,Fashion,OmniTech,6776,1
+ORD1158,Electronics,SuperCom,48903,0
+ORD1159,Beauty,Appario,39163,1
+ORD1160,Home & Kitchen,SuperCom,14494,1
+ORD1161,Electronics,Appario,23999,0
+ORD1162,Beauty,OmniTech,23540,0
+ORD1163,Beauty,Appario,43820,0
+ORD1164,Fashion,RetailNet,17459,0
+ORD1165,Electronics,RetailNet,6599,0
+ORD1166,Beauty,RetailNet,42767,0
+ORD1167,Home & Kitchen,RetailNet,20076,0
+ORD1168,Home & Kitchen,SuperCom,36446,0
+ORD1169,Fashion,OmniTech,6616,0
+ORD1170,Beauty,Appario,16063,1
+ORD1171,Electronics,Appario,27288,0
+ORD1172,Home & Kitchen,RetailNet,27428,0
+ORD1173,Beauty,RetailNet,36836,0
+ORD1174,Beauty,CloudTail,10347,0
+ORD1175,Fashion,OmniTech,26655,0
+ORD1176,Home & Kitchen,SuperCom,14635,0
+ORD1177,Home & Kitchen,Appario,18274,0
+ORD1178,Electronics,CloudTail,2242,0
+ORD1179,Home & Kitchen,CloudTail,18809,1
+ORD1180,Electronics,Appario,1119,0
+ORD1181,Home & Kitchen,SuperCom,18158,0
+ORD1182,Fashion,CloudTail,35207,1
+ORD1183,Home & Kitchen,CloudTail,20837,0
+ORD1184,Electronics,OmniTech,16501,0
+ORD1185,Electronics,SuperCom,1468,1
+ORD1186,Fashion,CloudTail,48114,0
+ORD1187,Home & Kitchen,SuperCom,26392,0
+ORD1188,Home & Kitchen,Appario,26119,0
+ORD1189,Fashion,RetailNet,781,0
+ORD1190,Home & Kitchen,CloudTail,27920,0
+ORD1191,Home & Kitchen,OmniTech,15860,0
+ORD1192,Electronics,Appario,39530,0
+ORD1193,Home & Kitchen,SuperCom,1558,0
+ORD1194,Home & Kitchen,Appario,21177,0
+ORD1195,Fashion,CloudTail,11224,0
+ORD1196,Fashion,SuperCom,28904,1
+ORD1197,Beauty,RetailNet,38446,0
+ORD1198,Electronics,Appario,40248,1
+ORD1199,Home & Kitchen,CloudTail,30356,0
+ORD1200,Home & Kitchen,OmniTech,9700,0
+ORD1201,Beauty,SuperCom,34497,0
+ORD1202,Home & Kitchen,Appario,26111,0
+ORD1203,Electronics,Appario,41735,0
+ORD1204,Beauty,RetailNet,35557,0
+ORD1205,Electronics,RetailNet,1739,0
+ORD1206,Beauty,OmniTech,38638,0
+ORD1207,Beauty,OmniTech,49438,0
+ORD1208,Fashion,CloudTail,625,1
+ORD1209,Electronics,CloudTail,45772,0
+ORD1210,Home & Kitchen,OmniTech,24357,0
+ORD1211,Home & Kitchen,OmniTech,15898,0
+ORD1212,Electronics,SuperCom,7138,0
+ORD1213,Home & Kitchen,RetailNet,7070,0
+ORD1214,Home & Kitchen,CloudTail,3749,0
+ORD1215,Electronics,RetailNet,9610,0
+ORD1216,Beauty,RetailNet,40863,1
+ORD1217,Electronics,OmniTech,14105,1
+ORD1218,Beauty,SuperCom,12615,0
+ORD1219,Home & Kitchen,Appario,39562,0
+ORD1220,Home & Kitchen,SuperCom,23411,1
+ORD1221,Home & Kitchen,SuperCom,39025,0
+ORD1222,Fashion,RetailNet,33056,1
+ORD1223,Beauty,SuperCom,13095,0
+ORD1224,Fashion,CloudTail,2469,0
+ORD1225,Fashion,RetailNet,44253,0
+ORD1226,Electronics,CloudTail,17775,0
+ORD1227,Fashion,Appario,4970,0
+ORD1228,Electronics,RetailNet,10725,0
+ORD1229,Electronics,Appario,42824,0
+ORD1230,Fashion,RetailNet,42474,0
+ORD1231,Beauty,OmniTech,43259,0
+ORD1232,Beauty,SuperCom,23696,0
+ORD1233,Beauty,OmniTech,40787,1
+ORD1234,Beauty,Appario,14169,0
+ORD1235,Beauty,SuperCom,37880,0
+ORD1236,Fashion,RetailNet,45641,0
+ORD1237,Fashion,SuperCom,48820,0
+ORD1238,Home & Kitchen,CloudTail,47914,0
+ORD1239,Beauty,SuperCom,38506,0
+ORD1240,Fashion,CloudTail,16077,0
+ORD1241,Home & Kitchen,SuperCom,22973,0
+ORD1242,Beauty,CloudTail,29125,0
+ORD1243,Electronics,Appario,16004,0
+ORD1244,Home & Kitchen,OmniTech,24589,0
+ORD1245,Fashion,RetailNet,36987,0
+ORD1246,Electronics,SuperCom,802,0
+ORD1247,Electronics,OmniTech,31963,1
+ORD1248,Electronics,RetailNet,45412,0
+ORD1249,Home & Kitchen,RetailNet,29759,0
+ORD1250,Fashion,CloudTail,43323,1
+ORD1251,Electronics,Appario,37708,0
+ORD1252,Beauty,Appario,31159,0
+ORD1253,Electronics,OmniTech,36340,1
+ORD1254,Electronics,Appario,32390,1
+ORD1255,Home & Kitchen,SuperCom,14098,0
+ORD1256,Home & Kitchen,Appario,47555,0
+ORD1257,Fashion,OmniTech,47233,1
+ORD1258,Beauty,Appario,20008,0
+ORD1259,Home & Kitchen,SuperCom,42787,0
+ORD1260,Electronics,CloudTail,13880,0
+ORD1261,Fashion,OmniTech,27484,0
+ORD1262,Electronics,CloudTail,45133,0
+ORD1263,Electronics,CloudTail,8625,0
+ORD1264,Home & Kitchen,CloudTail,36559,0
+ORD1265,Fashion,RetailNet,4533,0
+ORD1266,Beauty,RetailNet,38373,0
+ORD1267,Beauty,CloudTail,17587,0
+ORD1268,Home & Kitchen,OmniTech,41401,1
+ORD1269,Home & Kitchen,SuperCom,6204,0
+ORD1270,Fashion,SuperCom,8348,0
+ORD1271,Beauty,Appario,22092,0
+ORD1272,Beauty,OmniTech,46243,0
+ORD1273,Beauty,RetailNet,7424,0
+ORD1274,Electronics,CloudTail,27708,1
+ORD1275,Beauty,Appario,20114,1
+ORD1276,Electronics,SuperCom,988,0
+ORD1277,Fashion,RetailNet,40382,0
+ORD1278,Electronics,RetailNet,26423,1
+ORD1279,Fashion,CloudTail,49008,0
+ORD1280,Beauty,SuperCom,36441,0
+ORD1281,Beauty,OmniTech,29665,0
+ORD1282,Fashion,RetailNet,2167,0
+ORD1283,Home & Kitchen,CloudTail,26713,0
+ORD1284,Fashion,OmniTech,4614,0
+ORD1285,Home & Kitchen,SuperCom,36821,0
+ORD1286,Electronics,RetailNet,8261,0
+ORD1287,Electronics,OmniTech,31616,0
+ORD1288,Electronics,OmniTech,34268,0
+ORD1289,Beauty,OmniTech,48906,1
+ORD1290,Electronics,RetailNet,25926,0
+ORD1291,Home & Kitchen,RetailNet,18272,0
+ORD1292,Electronics,Appario,38718,0
+ORD1293,Fashion,SuperCom,4212,0
+ORD1294,Fashion,CloudTail,1867,0
+ORD1295,Beauty,OmniTech,41457,1
+ORD1296,Fashion,Appario,42281,0
+ORD1297,Home & Kitchen,CloudTail,26700,0
+ORD1298,Electronics,Appario,4226,0
+ORD1299,Beauty,RetailNet,24116,0
+ORD1300,Electronics,OmniTech,28223,0
+ORD1301,Electronics,CloudTail,38074,0
+ORD1302,Home & Kitchen,CloudTail,35458,0
+ORD1303,Fashion,CloudTail,9608,1
+ORD1304,Fashion,CloudTail,12678,1
+ORD1305,Electronics,CloudTail,36143,0
+ORD1306,Beauty,Appario,31824,1
+ORD1307,Fashion,OmniTech,38860,1
+ORD1308,Beauty,RetailNet,18324,0
+ORD1309,Fashion,RetailNet,45860,0
+ORD1310,Beauty,RetailNet,9427,0
+ORD1311,Home & Kitchen,RetailNet,28644,0
+ORD1312,Beauty,Appario,31510,0
+ORD1313,Home & Kitchen,SuperCom,22943,0
+ORD1314,Home & Kitchen,OmniTech,14937,0
+ORD1315,Beauty,CloudTail,44798,0
+ORD1316,Home & Kitchen,SuperCom,40278,0
+ORD1317,Electronics,RetailNet,11707,0
+ORD1318,Home & Kitchen,SuperCom,26037,1
+ORD1319,Fashion,OmniTech,36257,1
+ORD1320,Beauty,CloudTail,12540,0
+ORD1321,Electronics,CloudTail,42486,1
+ORD1322,Beauty,OmniTech,23112,0
+ORD1323,Fashion,OmniTech,28941,0
+ORD1324,Fashion,RetailNet,6971,0
+ORD1325,Fashion,CloudTail,36131,1
+ORD1326,Home & Kitchen,SuperCom,43961,0
+ORD1327,Home & Kitchen,Appario,27023,0
+ORD1328,Beauty,Appario,31848,0
+ORD1329,Beauty,OmniTech,1677,1
+ORD1330,Electronics,RetailNet,5260,0
+ORD1331,Electronics,Appario,33279,0
+ORD1332,Beauty,CloudTail,22136,0
+ORD1333,Home & Kitchen,OmniTech,16853,1
+ORD1334,Fashion,SuperCom,12056,0
+ORD1335,Beauty,OmniTech,28098,1
+ORD1336,Electronics,SuperCom,12063,1
+ORD1337,Home & Kitchen,OmniTech,47319,1
+ORD1338,Beauty,OmniTech,44290,1
+ORD1339,Beauty,OmniTech,8734,0
+ORD1340,Home & Kitchen,SuperCom,26019,0
+ORD1341,Beauty,SuperCom,27466,0
+ORD1342,Home & Kitchen,OmniTech,16673,1
+ORD1343,Fashion,Appario,27487,1
+ORD1344,Home & Kitchen,RetailNet,13678,0
+ORD1345,Home & Kitchen,RetailNet,39838,0
+ORD1346,Home & Kitchen,RetailNet,25096,0
+ORD1347,Beauty,SuperCom,33674,0
+ORD1348,Beauty,SuperCom,42474,0
+ORD1349,Home & Kitchen,Appario,4931,0
+ORD1350,Beauty,RetailNet,28264,0
+ORD1351,Electronics,RetailNet,22127,1
+ORD1352,Electronics,OmniTech,39810,1
+ORD1353,Beauty,SuperCom,9406,0
+ORD1354,Beauty,RetailNet,37414,0
+ORD1355,Home & Kitchen,Appario,45314,0
+ORD1356,Fashion,Appario,45879,1
+ORD1357,Beauty,RetailNet,13576,1
+ORD1358,Electronics,SuperCom,49792,0
+ORD1359,Home & Kitchen,Appario,38150,0
+ORD1360,Beauty,OmniTech,47381,0
+ORD1361,Electronics,Appario,46913,1
+ORD1362,Electronics,CloudTail,6512,0
+ORD1363,Fashion,CloudTail,7651,0
+ORD1364,Home & Kitchen,SuperCom,28711,0
+ORD1365,Home & Kitchen,RetailNet,27617,0
+ORD1366,Fashion,SuperCom,36878,0
+ORD1367,Fashion,SuperCom,43152,1
+ORD1368,Home & Kitchen,SuperCom,7394,0
+ORD1369,Home & Kitchen,SuperCom,13967,1
+ORD1370,Beauty,OmniTech,31510,1
+ORD1371,Beauty,OmniTech,49757,0
+ORD1372,Fashion,Appario,43141,0
+ORD1373,Beauty,CloudTail,12789,0
+ORD1374,Electronics,SuperCom,45476,1
+ORD1375,Beauty,Appario,44096,0
+ORD1376,Beauty,CloudTail,23671,0
+ORD1377,Electronics,RetailNet,35405,0
+ORD1378,Fashion,OmniTech,21329,1
+ORD1379,Electronics,CloudTail,34554,0
+ORD1380,Beauty,RetailNet,48978,0
+ORD1381,Fashion,CloudTail,44639,1
+ORD1382,Beauty,OmniTech,49213,1
+ORD1383,Electronics,OmniTech,30234,1
+ORD1384,Electronics,Appario,7552,0
+ORD1385,Beauty,SuperCom,4154,0
+ORD1386,Home & Kitchen,CloudTail,23986,0
+ORD1387,Home & Kitchen,CloudTail,19243,0
+ORD1388,Electronics,RetailNet,48868,0
+ORD1389,Electronics,OmniTech,24989,1
+ORD1390,Home & Kitchen,CloudTail,9136,0
+ORD1391,Home & Kitchen,OmniTech,6941,1
+ORD1392,Beauty,CloudTail,25111,0
+ORD1393,Beauty,Appario,42935,0
+ORD1394,Home & Kitchen,SuperCom,12649,0
+ORD1395,Beauty,CloudTail,35066,0
+ORD1396,Beauty,OmniTech,42868,0
+ORD1397,Fashion,Appario,22175,0
+ORD1398,Beauty,CloudTail,5995,0
+ORD1399,Electronics,RetailNet,43168,0
+ORD1400,Beauty,SuperCom,14173,1
+ORD1401,Beauty,CloudTail,11630,0
+ORD1402,Home & Kitchen,Appario,23168,0
+ORD1403,Electronics,RetailNet,15722,0
+ORD1404,Beauty,Appario,24169,0
+ORD1405,Beauty,Appario,34568,0
+ORD1406,Fashion,RetailNet,23753,0
+ORD1407,Beauty,Appario,9935,1
+ORD1408,Beauty,RetailNet,29052,0
+ORD1409,Fashion,CloudTail,37884,0
+ORD1410,Home & Kitchen,RetailNet,16893,0
+ORD1411,Beauty,RetailNet,11117,0
+ORD1412,Fashion,SuperCom,39020,0
+ORD1413,Electronics,RetailNet,10352,0
+ORD1414,Home & Kitchen,RetailNet,31901,1
+ORD1415,Electronics,CloudTail,6795,0
+ORD1416,Electronics,SuperCom,36493,0
+ORD1417,Fashion,OmniTech,34584,1
+ORD1418,Beauty,CloudTail,45605,1
+ORD1419,Fashion,CloudTail,40075,0
+ORD1420,Fashion,OmniTech,36951,0
+ORD1421,Fashion,RetailNet,7727,0
+ORD1422,Fashion,Appario,32410,0
+ORD1423,Home & Kitchen,SuperCom,36541,0
+ORD1424,Beauty,Appario,23884,0
+ORD1425,Electronics,OmniTech,645,0
+ORD1426,Electronics,CloudTail,38278,1
+ORD1427,Beauty,CloudTail,16535,0
+ORD1428,Electronics,SuperCom,3540,0
+ORD1429,Beauty,CloudTail,42922,0
+ORD1430,Electronics,CloudTail,26660,0
+ORD1431,Fashion,SuperCom,18133,0
+ORD1432,Electronics,SuperCom,29844,0
+ORD1433,Beauty,OmniTech,17514,0
+ORD1434,Beauty,CloudTail,15496,0
+ORD1435,Beauty,CloudTail,49604,0
+ORD1436,Beauty,OmniTech,42121,0
+ORD1437,Beauty,RetailNet,12195,1
+ORD1438,Home & Kitchen,RetailNet,3352,0
+ORD1439,Home & Kitchen,RetailNet,16514,0
+ORD1440,Electronics,OmniTech,27542,0
+ORD1441,Beauty,CloudTail,34255,0
+ORD1442,Electronics,OmniTech,40890,1
+ORD1443,Beauty,OmniTech,24211,0
+ORD1444,Beauty,RetailNet,26622,0
+ORD1445,Home & Kitchen,Appario,9660,0
+ORD1446,Home & Kitchen,CloudTail,27713,0
+ORD1447,Fashion,RetailNet,39920,0
+ORD1448,Home & Kitchen,Appario,7921,0
+ORD1449,Fashion,Appario,21900,0
+ORD1450,Fashion,SuperCom,34037,0
+ORD1451,Fashion,CloudTail,18227,0
+ORD1452,Fashion,Appario,47382,0
+ORD1453,Fashion,RetailNet,4858,1
+ORD1454,Electronics,SuperCom,28982,0
+ORD1455,Home & Kitchen,CloudTail,32617,1
+ORD1456,Fashion,OmniTech,23664,0
+ORD1457,Beauty,RetailNet,32410,0
+ORD1458,Home & Kitchen,Appario,32996,0
+ORD1459,Home & Kitchen,Appario,44811,0
+ORD1460,Fashion,RetailNet,29871,0
+ORD1461,Electronics,Appario,38967,0
+ORD1462,Fashion,SuperCom,18125,0
+ORD1463,Electronics,CloudTail,34393,0
+ORD1464,Beauty,SuperCom,11293,0
+ORD1465,Home & Kitchen,Appario,31507,0
+ORD1466,Beauty,OmniTech,26266,0
+ORD1467,Electronics,CloudTail,40032,0
+ORD1468,Electronics,CloudTail,12823,0
+ORD1469,Beauty,RetailNet,46299,0
+ORD1470,Electronics,RetailNet,47320,0
+ORD1471,Beauty,OmniTech,45908,0
+ORD1472,Home & Kitchen,CloudTail,8343,1
+ORD1473,Beauty,OmniTech,14710,0
+ORD1474,Home & Kitchen,RetailNet,16956,0
+ORD1475,Beauty,RetailNet,31867,0
+ORD1476,Electronics,CloudTail,10606,0
+ORD1477,Beauty,SuperCom,38457,0
+ORD1478,Electronics,Appario,2972,1
+ORD1479,Beauty,RetailNet,7204,0
+ORD1480,Beauty,RetailNet,4213,1
+ORD1481,Fashion,SuperCom,5551,0
+ORD1482,Electronics,SuperCom,11256,0
+ORD1483,Fashion,OmniTech,2975,0
+ORD1484,Electronics,OmniTech,36878,0
+ORD1485,Fashion,Appario,4755,0
+ORD1486,Home & Kitchen,Appario,14984,0
+ORD1487,Beauty,CloudTail,35003,0
+ORD1488,Electronics,OmniTech,8758,0
+ORD1489,Electronics,RetailNet,41247,0
+ORD1490,Beauty,OmniTech,35696,0
+ORD1491,Electronics,RetailNet,45613,0
+ORD1492,Electronics,SuperCom,40694,0
+ORD1493,Fashion,OmniTech,9033,0
+ORD1494,Electronics,SuperCom,33081,0
+ORD1495,Home & Kitchen,Appario,5749,0
+ORD1496,Home & Kitchen,Appario,19701,0
+ORD1497,Beauty,CloudTail,10186,1
+ORD1498,Electronics,OmniTech,47377,0
+ORD1499,Beauty,SuperCom,32507,0
+ORD1500,Home & Kitchen,RetailNet,1161,0
+ORD1501,Electronics,Appario,45343,0
+ORD1502,Electronics,Appario,30637,0
+ORD1503,Beauty,RetailNet,48056,0
+ORD1504,Home & Kitchen,SuperCom,43328,0
+ORD1505,Electronics,SuperCom,49104,0
+ORD1506,Beauty,OmniTech,11026,1
+ORD1507,Home & Kitchen,OmniTech,3874,1
+ORD1508,Beauty,CloudTail,26092,0
+ORD1509,Fashion,Appario,29482,0
+ORD1510,Electronics,OmniTech,707,0
+ORD1511,Fashion,SuperCom,35933,0
+ORD1512,Home & Kitchen,RetailNet,23697,0
+ORD1513,Fashion,SuperCom,33900,0
+ORD1514,Fashion,Appario,3583,0
+ORD1515,Home & Kitchen,SuperCom,29828,0
+ORD1516,Beauty,CloudTail,46979,0
+ORD1517,Fashion,Appario,43391,0
+ORD1518,Beauty,RetailNet,20603,0
+ORD1519,Fashion,CloudTail,40391,0
+ORD1520,Beauty,Appario,11254,0
+ORD1521,Home & Kitchen,RetailNet,34947,0
+ORD1522,Fashion,CloudTail,16401,0
+ORD1523,Home & Kitchen,CloudTail,33504,0
+ORD1524,Fashion,Appario,7946,0
+ORD1525,Home & Kitchen,OmniTech,37711,1
+ORD1526,Home & Kitchen,CloudTail,48731,0
+ORD1527,Fashion,CloudTail,29801,0
+ORD1528,Fashion,RetailNet,26616,0
+ORD1529,Fashion,SuperCom,41823,0
+ORD1530,Electronics,Appario,19252,0
+ORD1531,Beauty,Appario,32876,0
+ORD1532,Electronics,OmniTech,17169,0
+ORD1533,Electronics,OmniTech,33416,0
+ORD1534,Home & Kitchen,Appario,13895,0
+ORD1535,Fashion,OmniTech,20921,1
+ORD1536,Beauty,RetailNet,26842,1
+ORD1537,Home & Kitchen,Appario,5395,0
+ORD1538,Electronics,OmniTech,11523,0
+ORD1539,Fashion,Appario,11199,0
+ORD1540,Home & Kitchen,SuperCom,10215,0
+ORD1541,Fashion,CloudTail,19669,0
+ORD1542,Home & Kitchen,Appario,16663,0
+ORD1543,Fashion,CloudTail,6282,1
+ORD1544,Electronics,OmniTech,23141,1
+ORD1545,Beauty,CloudTail,19292,0
+ORD1546,Electronics,Appario,49992,1
+ORD1547,Beauty,SuperCom,36085,0
+ORD1548,Fashion,OmniTech,31182,0
+ORD1549,Home & Kitchen,Appario,48364,0
+ORD1550,Electronics,OmniTech,19380,0
+ORD1551,Beauty,RetailNet,38567,0
+ORD1552,Electronics,CloudTail,43185,0
+ORD1553,Beauty,RetailNet,18573,0
+ORD1554,Electronics,Appario,36535,0
+ORD1555,Beauty,SuperCom,37674,1
+ORD1556,Beauty,OmniTech,25337,0
+ORD1557,Fashion,CloudTail,18326,1
+ORD1558,Beauty,OmniTech,25481,1
+ORD1559,Fashion,Appario,10882,0
+ORD1560,Beauty,OmniTech,4937,0
+ORD1561,Home & Kitchen,CloudTail,5935,1
+ORD1562,Home & Kitchen,Appario,25319,0
+ORD1563,Home & Kitchen,OmniTech,37375,1
+ORD1564,Beauty,SuperCom,32482,0
+ORD1565,Fashion,Appario,33828,0
+ORD1566,Fashion,Appario,12829,0
+ORD1567,Beauty,SuperCom,25669,0
+ORD1568,Home & Kitchen,RetailNet,22432,0
+ORD1569,Home & Kitchen,CloudTail,35094,0
+ORD1570,Fashion,RetailNet,11921,0
+ORD1571,Home & Kitchen,OmniTech,45533,0
+ORD1572,Electronics,SuperCom,8129,1
+ORD1573,Fashion,RetailNet,8825,0
+ORD1574,Home & Kitchen,Appario,28995,0
+ORD1575,Fashion,OmniTech,32250,0
+ORD1576,Electronics,OmniTech,30119,0
+ORD1577,Fashion,RetailNet,40961,0
+ORD1578,Fashion,RetailNet,8764,1
+ORD1579,Fashion,SuperCom,13186,0
+ORD1580,Fashion,CloudTail,46984,0
+ORD1581,Electronics,RetailNet,24726,0
+ORD1582,Beauty,RetailNet,7221,0
+ORD1583,Fashion,Appario,21109,0
+ORD1584,Fashion,OmniTech,7873,0
+ORD1585,Home & Kitchen,CloudTail,39175,0
+ORD1586,Fashion,Appario,49395,0
+ORD1587,Home & Kitchen,SuperCom,29437,0
+ORD1588,Beauty,SuperCom,6156,0
+ORD1589,Electronics,RetailNet,9484,0
+ORD1590,Electronics,RetailNet,30484,0
+ORD1591,Beauty,SuperCom,8786,0
+ORD1592,Electronics,RetailNet,6401,0
+ORD1593,Beauty,CloudTail,32052,0
+ORD1594,Beauty,RetailNet,26209,0
+ORD1595,Beauty,OmniTech,31555,1
+ORD1596,Electronics,RetailNet,38185,0
+ORD1597,Home & Kitchen,Appario,8929,0
+ORD1598,Beauty,CloudTail,15216,1
+ORD1599,Fashion,Appario,49063,0
+ORD1600,Electronics,Appario,11638,0
+ORD1601,Beauty,OmniTech,35798,0
+ORD1602,Beauty,CloudTail,23929,0
+ORD1603,Fashion,CloudTail,6272,0
+ORD1604,Home & Kitchen,CloudTail,48744,0
+ORD1605,Home & Kitchen,CloudTail,49019,0
+ORD1606,Home & Kitchen,CloudTail,36232,0
+ORD1607,Beauty,OmniTech,40405,1
+ORD1608,Beauty,RetailNet,17847,1
+ORD1609,Beauty,Appario,17420,0
+ORD1610,Electronics,CloudTail,32322,0
+ORD1611,Fashion,RetailNet,47159,0
+ORD1612,Beauty,RetailNet,40608,0
+ORD1613,Fashion,Appario,24063,0
+ORD1614,Fashion,OmniTech,8467,1
+ORD1615,Home & Kitchen,SuperCom,45683,0
+ORD1616,Electronics,SuperCom,12371,0
+ORD1617,Beauty,RetailNet,29263,0
+ORD1618,Home & Kitchen,Appario,12416,0
+ORD1619,Home & Kitchen,SuperCom,9234,0
+ORD1620,Beauty,RetailNet,34113,0
+ORD1621,Fashion,OmniTech,28679,0
+ORD1622,Home & Kitchen,SuperCom,35762,0
+ORD1623,Fashion,RetailNet,13177,1
+ORD1624,Electronics,RetailNet,18768,1
+ORD1625,Fashion,CloudTail,12830,1
+ORD1626,Electronics,OmniTech,21233,0
+ORD1627,Fashion,CloudTail,38447,1
+ORD1628,Home & Kitchen,Appario,27786,0
+ORD1629,Home & Kitchen,CloudTail,7110,0
+ORD1630,Electronics,CloudTail,6930,0
+ORD1631,Beauty,SuperCom,40422,0
+ORD1632,Electronics,RetailNet,14328,0
+ORD1633,Electronics,OmniTech,43413,0
+ORD1634,Fashion,CloudTail,31997,0
+ORD1635,Fashion,OmniTech,39756,0
+ORD1636,Electronics,CloudTail,37118,1
+ORD1637,Home & Kitchen,Appario,46832,0
+ORD1638,Fashion,CloudTail,27026,1
+ORD1639,Beauty,SuperCom,30658,0
+ORD1640,Fashion,RetailNet,25532,0
+ORD1641,Fashion,Appario,38346,0
+ORD1642,Beauty,CloudTail,45436,0
+ORD1643,Electronics,OmniTech,30294,0
+ORD1644,Beauty,Appario,5948,0
+ORD1645,Electronics,Appario,29361,0
+ORD1646,Electronics,CloudTail,28641,0
+ORD1647,Electronics,Appario,9574,0
+ORD1648,Beauty,OmniTech,6906,0
+ORD1649,Electronics,Appario,32323,0
+ORD1650,Home & Kitchen,OmniTech,23791,0
+ORD1651,Beauty,CloudTail,42068,0
+ORD1652,Home & Kitchen,RetailNet,32503,0
+ORD1653,Electronics,Appario,47351,0
+ORD1654,Fashion,RetailNet,34906,0
+ORD1655,Electronics,OmniTech,23812,0
+ORD1656,Home & Kitchen,Appario,43608,1
+ORD1657,Home & Kitchen,SuperCom,1882,0
+ORD1658,Beauty,RetailNet,34671,0
+ORD1659,Fashion,Appario,42279,0
+ORD1660,Beauty,RetailNet,3792,1
+ORD1661,Home & Kitchen,Appario,42279,0
+ORD1662,Electronics,CloudTail,33687,1
+ORD1663,Fashion,RetailNet,12911,0
+ORD1664,Electronics,SuperCom,37785,0
+ORD1665,Electronics,SuperCom,15922,0
+ORD1666,Fashion,OmniTech,42968,0
+ORD1667,Beauty,Appario,32871,0
+ORD1668,Electronics,RetailNet,6193,0
+ORD1669,Home & Kitchen,OmniTech,34035,0
+ORD1670,Electronics,RetailNet,15318,0
+ORD1671,Fashion,Appario,31738,1
+ORD1672,Fashion,SuperCom,31374,0
+ORD1673,Fashion,CloudTail,27215,1
+ORD1674,Beauty,SuperCom,28105,0
+ORD1675,Electronics,OmniTech,34817,1
+ORD1676,Beauty,CloudTail,31674,1
+ORD1677,Beauty,OmniTech,10456,1
+ORD1678,Fashion,Appario,39408,0
+ORD1679,Fashion,CloudTail,11337,0
+ORD1680,Beauty,OmniTech,4216,0
+ORD1681,Electronics,Appario,4981,1
+ORD1682,Home & Kitchen,SuperCom,24782,0
+ORD1683,Beauty,Appario,7048,0
+ORD1684,Electronics,RetailNet,38105,0
+ORD1685,Fashion,Appario,8258,0
+ORD1686,Fashion,Appario,44168,0
+ORD1687,Electronics,RetailNet,23677,0
+ORD1688,Home & Kitchen,OmniTech,24522,0
+ORD1689,Fashion,OmniTech,41261,1
+ORD1690,Fashion,Appario,6042,0
+ORD1691,Fashion,RetailNet,25976,0
+ORD1692,Electronics,RetailNet,31284,0
+ORD1693,Beauty,SuperCom,23240,0
+ORD1694,Fashion,OmniTech,25317,0
+ORD1695,Beauty,CloudTail,48096,1
+ORD1696,Home & Kitchen,OmniTech,16552,1
+ORD1697,Fashion,OmniTech,35653,0
+ORD1698,Fashion,SuperCom,47576,0
+ORD1699,Home & Kitchen,CloudTail,1171,0
+ORD1700,Fashion,SuperCom,663,0
+ORD1701,Beauty,CloudTail,41924,1
+ORD1702,Electronics,Appario,44502,0
+ORD1703,Beauty,CloudTail,5295,0
+ORD1704,Electronics,SuperCom,11134,0
+ORD1705,Electronics,OmniTech,5298,0
+ORD1706,Beauty,CloudTail,22920,0
+ORD1707,Beauty,CloudTail,29800,0
+ORD1708,Beauty,RetailNet,24845,1
+ORD1709,Beauty,OmniTech,11249,0
+ORD1710,Home & Kitchen,Appario,39095,0
+ORD1711,Fashion,SuperCom,25621,0
+ORD1712,Electronics,Appario,37987,0
+ORD1713,Beauty,OmniTech,28911,0
+ORD1714,Beauty,CloudTail,33861,0
+ORD1715,Beauty,CloudTail,21723,0
+ORD1716,Home & Kitchen,OmniTech,7894,0
+ORD1717,Beauty,CloudTail,14556,0
+ORD1718,Beauty,CloudTail,28880,0
+ORD1719,Beauty,CloudTail,26535,0
+ORD1720,Fashion,SuperCom,31120,1
+ORD1721,Home & Kitchen,SuperCom,20377,0
+ORD1722,Beauty,RetailNet,43904,0
+ORD1723,Electronics,Appario,31411,0
+ORD1724,Electronics,OmniTech,33284,0
+ORD1725,Electronics,OmniTech,3691,1
+ORD1726,Home & Kitchen,OmniTech,33660,1
+ORD1727,Home & Kitchen,RetailNet,25500,0
+ORD1728,Electronics,SuperCom,39540,1
+ORD1729,Beauty,RetailNet,4131,0
+ORD1730,Home & Kitchen,OmniTech,6672,0
+ORD1731,Electronics,Appario,42580,0
+ORD1732,Electronics,CloudTail,24061,1
+ORD1733,Beauty,SuperCom,25317,0
+ORD1734,Fashion,SuperCom,20781,0
+ORD1735,Home & Kitchen,RetailNet,29171,1
+ORD1736,Beauty,SuperCom,25864,0
+ORD1737,Electronics,OmniTech,42174,1
+ORD1738,Electronics,OmniTech,27925,0
+ORD1739,Beauty,RetailNet,29102,0
+ORD1740,Home & Kitchen,OmniTech,23753,0
+ORD1741,Fashion,Appario,23972,0
+ORD1742,Fashion,RetailNet,49730,0
+ORD1743,Electronics,Appario,8580,1
+ORD1744,Home & Kitchen,CloudTail,7599,0
+ORD1745,Fashion,Appario,25931,1
+ORD1746,Home & Kitchen,CloudTail,31686,0
+ORD1747,Home & Kitchen,CloudTail,48184,0
+ORD1748,Electronics,Appario,30611,0
+ORD1749,Fashion,RetailNet,40351,0
+ORD1750,Beauty,OmniTech,23114,1
+ORD1751,Electronics,OmniTech,27224,0
+ORD1752,Fashion,CloudTail,42491,0
+ORD1753,Fashion,CloudTail,5440,0
+ORD1754,Fashion,RetailNet,29258,1
+ORD1755,Fashion,SuperCom,36724,0
+ORD1756,Fashion,Appario,8288,1
+ORD1757,Home & Kitchen,CloudTail,28582,0
+ORD1758,Electronics,OmniTech,24534,0
+ORD1759,Home & Kitchen,RetailNet,35979,1
+ORD1760,Beauty,Appario,11780,0
+ORD1761,Fashion,RetailNet,18552,0
+ORD1762,Electronics,Appario,17031,0
+ORD1763,Fashion,Appario,23304,0
+ORD1764,Electronics,CloudTail,29403,0
+ORD1765,Home & Kitchen,RetailNet,45357,0
+ORD1766,Electronics,RetailNet,10642,0
+ORD1767,Beauty,OmniTech,48855,0
+ORD1768,Beauty,OmniTech,10366,0
+ORD1769,Electronics,CloudTail,5031,1
+ORD1770,Electronics,CloudTail,45954,0
+ORD1771,Electronics,SuperCom,38598,0
+ORD1772,Electronics,OmniTech,38778,1
+ORD1773,Beauty,Appario,28638,0
+ORD1774,Fashion,RetailNet,27565,1
+ORD1775,Electronics,CloudTail,30456,1
+ORD1776,Electronics,RetailNet,42232,0
+ORD1777,Beauty,RetailNet,39761,0
+ORD1778,Beauty,SuperCom,11259,0
+ORD1779,Home & Kitchen,OmniTech,5939,1
+ORD1780,Electronics,CloudTail,47741,0
+ORD1781,Home & Kitchen,RetailNet,43033,0
+ORD1782,Beauty,CloudTail,28770,0
+ORD1783,Beauty,Appario,13779,0
+ORD1784,Fashion,SuperCom,39779,0
+ORD1785,Electronics,Appario,44751,1
+ORD1786,Home & Kitchen,CloudTail,24388,0
+ORD1787,Beauty,CloudTail,18130,0
+ORD1788,Beauty,OmniTech,35644,1
+ORD1789,Home & Kitchen,RetailNet,31682,1
+ORD1790,Fashion,RetailNet,26038,1
+ORD1791,Beauty,Appario,12324,1
+ORD1792,Electronics,SuperCom,32625,0
+ORD1793,Beauty,RetailNet,7479,0
+ORD1794,Electronics,OmniTech,26689,1
+ORD1795,Home & Kitchen,Appario,43100,1
+ORD1796,Electronics,Appario,13004,0
+ORD1797,Home & Kitchen,OmniTech,21169,0
+ORD1798,Electronics,SuperCom,7410,0
+ORD1799,Home & Kitchen,OmniTech,47357,0
+ORD1800,Electronics,SuperCom,35464,0
+ORD1801,Fashion,OmniTech,20631,0
+ORD1802,Electronics,OmniTech,25727,0
+ORD1803,Electronics,CloudTail,6478,0
+ORD1804,Fashion,Appario,22491,1
+ORD1805,Beauty,OmniTech,17653,0
+ORD1806,Beauty,OmniTech,34048,1
+ORD1807,Electronics,RetailNet,43176,0
+ORD1808,Fashion,Appario,39571,0
+ORD1809,Electronics,RetailNet,47954,0
+ORD1810,Home & Kitchen,Appario,4483,1
+ORD1811,Home & Kitchen,RetailNet,10003,1
+ORD1812,Electronics,OmniTech,30421,0
+ORD1813,Beauty,OmniTech,17405,0
+ORD1814,Beauty,CloudTail,46338,0
+ORD1815,Electronics,RetailNet,24453,0
+ORD1816,Electronics,SuperCom,27306,0
+ORD1817,Home & Kitchen,CloudTail,45500,0
+ORD1818,Beauty,RetailNet,22668,0
+ORD1819,Electronics,RetailNet,5083,1
+ORD1820,Home & Kitchen,CloudTail,39214,0
+ORD1821,Beauty,OmniTech,49645,0
+ORD1822,Fashion,RetailNet,40396,1
+ORD1823,Home & Kitchen,OmniTech,12389,0
+ORD1824,Beauty,CloudTail,27913,1
+ORD1825,Beauty,OmniTech,12775,1
+ORD1826,Home & Kitchen,Appario,2961,0
+ORD1827,Fashion,SuperCom,14791,0
+ORD1828,Home & Kitchen,RetailNet,47304,0
+ORD1829,Beauty,SuperCom,11935,0
+ORD1830,Electronics,OmniTech,28435,0
+ORD1831,Electronics,RetailNet,33953,0
+ORD1832,Home & Kitchen,OmniTech,19044,0
+ORD1833,Beauty,Appario,12758,0
+ORD1834,Electronics,CloudTail,31341,0
+ORD1835,Beauty,RetailNet,49258,0
+ORD1836,Home & Kitchen,Appario,49690,1
+ORD1837,Electronics,Appario,11236,0
+ORD1838,Beauty,RetailNet,38143,0
+ORD1839,Electronics,OmniTech,44450,1
+ORD1840,Home & Kitchen,Appario,35464,0
+ORD1841,Beauty,SuperCom,28544,0
+ORD1842,Electronics,Appario,40433,0
+ORD1843,Home & Kitchen,OmniTech,16497,0
+ORD1844,Electronics,OmniTech,14715,0
+ORD1845,Electronics,SuperCom,33569,0
+ORD1846,Fashion,Appario,24411,1
+ORD1847,Fashion,OmniTech,17530,1
+ORD1848,Home & Kitchen,RetailNet,29834,0
+ORD1849,Fashion,CloudTail,15071,1
+ORD1850,Home & Kitchen,CloudTail,43219,0
+ORD1851,Fashion,CloudTail,29427,0
+ORD1852,Electronics,Appario,21214,0
+ORD1853,Home & Kitchen,SuperCom,44041,0
+ORD1854,Home & Kitchen,OmniTech,23887,1
+ORD1855,Electronics,RetailNet,28944,1
+ORD1856,Home & Kitchen,RetailNet,49408,0
+ORD1857,Home & Kitchen,Appario,20421,1
+ORD1858,Fashion,CloudTail,13557,0
+ORD1859,Home & Kitchen,Appario,45768,0
+ORD1860,Beauty,SuperCom,25358,0
+ORD1861,Electronics,SuperCom,49189,0
+ORD1862,Fashion,OmniTech,45138,0
+ORD1863,Fashion,OmniTech,26562,1
+ORD1864,Beauty,SuperCom,37350,0
+ORD1865,Electronics,SuperCom,46986,0
+ORD1866,Electronics,SuperCom,21067,0
+ORD1867,Fashion,Appario,30239,0
+ORD1868,Home & Kitchen,SuperCom,43785,0
+ORD1869,Fashion,RetailNet,4254,0
+ORD1870,Electronics,CloudTail,27544,0
+ORD1871,Beauty,SuperCom,2224,0
+ORD1872,Fashion,CloudTail,1876,1
+ORD1873,Electronics,Appario,9206,0
+ORD1874,Fashion,CloudTail,9394,0
+ORD1875,Home & Kitchen,Appario,18537,0
+ORD1876,Fashion,RetailNet,18950,0
+ORD1877,Fashion,Appario,16906,0
+ORD1878,Electronics,Appario,30225,0
+ORD1879,Electronics,OmniTech,6426,1
+ORD1880,Electronics,SuperCom,39519,0
+ORD1881,Fashion,SuperCom,9996,0
+ORD1882,Home & Kitchen,RetailNet,36568,0
+ORD1883,Beauty,RetailNet,30306,0
+ORD1884,Beauty,SuperCom,23163,0
+ORD1885,Electronics,OmniTech,41821,0
+ORD1886,Electronics,SuperCom,36995,0
+ORD1887,Fashion,OmniTech,23156,1
+ORD1888,Beauty,RetailNet,26360,1
+ORD1889,Electronics,CloudTail,17332,0
+ORD1890,Home & Kitchen,RetailNet,39287,0
+ORD1891,Home & Kitchen,RetailNet,48731,0
+ORD1892,Electronics,Appario,22227,0
+ORD1893,Electronics,Appario,43315,1
+ORD1894,Beauty,Appario,30045,1
+ORD1895,Beauty,Appario,45022,1
+ORD1896,Fashion,OmniTech,3020,1
+ORD1897,Beauty,SuperCom,3581,0
+ORD1898,Home & Kitchen,CloudTail,34696,0
+ORD1899,Home & Kitchen,RetailNet,37235,0
+ORD1900,Electronics,OmniTech,39713,1
+ORD1901,Beauty,CloudTail,15066,0
+ORD1902,Fashion,OmniTech,14542,1
+ORD1903,Home & Kitchen,OmniTech,25998,0
+ORD1904,Home & Kitchen,RetailNet,11829,0
+ORD1905,Fashion,SuperCom,32156,0
+ORD1906,Fashion,Appario,2659,0
+ORD1907,Home & Kitchen,SuperCom,38400,0
+ORD1908,Home & Kitchen,RetailNet,19863,0
+ORD1909,Fashion,RetailNet,48201,0
+ORD1910,Home & Kitchen,RetailNet,43741,0
+ORD1911,Electronics,CloudTail,19533,0
+ORD1912,Electronics,SuperCom,11305,1
+ORD1913,Fashion,SuperCom,36351,0
+ORD1914,Beauty,OmniTech,27332,0
+ORD1915,Fashion,OmniTech,14444,0
+ORD1916,Fashion,OmniTech,20373,0
+ORD1917,Beauty,RetailNet,40872,1
+ORD1918,Beauty,SuperCom,24428,0
+ORD1919,Beauty,RetailNet,15879,0
+ORD1920,Electronics,CloudTail,37251,0
+ORD1921,Home & Kitchen,OmniTech,35046,0
+ORD1922,Electronics,RetailNet,24786,0
+ORD1923,Home & Kitchen,RetailNet,5610,0
+ORD1924,Electronics,CloudTail,12587,0
+ORD1925,Home & Kitchen,Appario,24262,0
+ORD1926,Electronics,SuperCom,17581,0
+ORD1927,Beauty,Appario,35447,1
+ORD1928,Fashion,OmniTech,10096,1
+ORD1929,Electronics,RetailNet,38519,0
+ORD1930,Home & Kitchen,CloudTail,42503,0
+ORD1931,Beauty,CloudTail,18813,0
+ORD1932,Electronics,SuperCom,48139,0
+ORD1933,Electronics,Appario,1513,0
+ORD1934,Beauty,SuperCom,49878,0
+ORD1935,Electronics,RetailNet,24205,0
+ORD1936,Fashion,SuperCom,2328,1
+ORD1937,Electronics,CloudTail,8409,0
+ORD1938,Fashion,CloudTail,38856,1
+ORD1939,Fashion,OmniTech,13609,1
+ORD1940,Beauty,OmniTech,2523,0
+ORD1941,Electronics,RetailNet,15037,0
+ORD1942,Beauty,Appario,27161,0
+ORD1943,Electronics,SuperCom,39159,0
+ORD1944,Electronics,RetailNet,34348,0
+ORD1945,Home & Kitchen,OmniTech,38304,1
+ORD1946,Electronics,SuperCom,15879,0
+ORD1947,Beauty,OmniTech,28266,1
+ORD1948,Fashion,SuperCom,44090,0
+ORD1949,Electronics,Appario,3063,0
+ORD1950,Home & Kitchen,RetailNet,36560,0
+ORD1951,Beauty,SuperCom,29697,0
+ORD1952,Electronics,CloudTail,4086,1
+ORD1953,Beauty,CloudTail,16587,0
+ORD1954,Home & Kitchen,SuperCom,49368,0
+ORD1955,Home & Kitchen,SuperCom,23725,0
+ORD1956,Beauty,SuperCom,30250,0
+ORD1957,Electronics,CloudTail,7143,0
+ORD1958,Fashion,CloudTail,28023,1
+ORD1959,Home & Kitchen,SuperCom,37227,0
+ORD1960,Electronics,OmniTech,11505,0
+ORD1961,Electronics,OmniTech,44043,0
+ORD1962,Fashion,Appario,661,0
+ORD1963,Home & Kitchen,RetailNet,16529,0
+ORD1964,Home & Kitchen,OmniTech,14726,0
+ORD1965,Electronics,CloudTail,29231,0
+ORD1966,Electronics,OmniTech,44422,1
+ORD1967,Fashion,Appario,45348,1
+ORD1968,Fashion,Appario,3890,0
+ORD1969,Home & Kitchen,RetailNet,6497,0
+ORD1970,Beauty,OmniTech,13193,0
+ORD1971,Home & Kitchen,CloudTail,42592,0
+ORD1972,Electronics,CloudTail,1041,0
+ORD1973,Home & Kitchen,SuperCom,22317,0
+ORD1974,Beauty,CloudTail,38361,0
+ORD1975,Fashion,RetailNet,13928,1
+ORD1976,Beauty,RetailNet,44434,0
+ORD1977,Beauty,CloudTail,49331,0
+ORD1978,Beauty,CloudTail,10758,0
+ORD1979,Fashion,SuperCom,16544,0
+ORD1980,Beauty,CloudTail,29911,0
+ORD1981,Beauty,SuperCom,5969,0
+ORD1982,Beauty,SuperCom,29354,0
+ORD1983,Electronics,CloudTail,6756,1
+ORD1984,Beauty,Appario,11220,0
+ORD1985,Fashion,Appario,34437,0
+ORD1986,Beauty,SuperCom,34098,0
+ORD1987,Beauty,CloudTail,2151,0
+ORD1988,Fashion,Appario,19694,0
+ORD1989,Beauty,CloudTail,25551,0
+ORD1990,Fashion,CloudTail,27886,0
+ORD1991,Beauty,CloudTail,10018,0
+ORD1992,Fashion,OmniTech,46526,1
+ORD1993,Beauty,CloudTail,16684,0
+ORD1994,Beauty,OmniTech,34287,0
+ORD1995,Electronics,SuperCom,22121,0
+ORD1996,Electronics,Appario,10528,0
+ORD1997,Beauty,Appario,12948,0
+ORD1998,Beauty,Appario,45753,1
+ORD1999,Home & Kitchen,Appario,34551,0
